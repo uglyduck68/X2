@@ -1,0 +1,23 @@
+﻿  Building 'simrep' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\simrep.inf
+  Stamping [Version] section with DriverVer=09/05/2025,10.37.36.225
+  SimRep.c
+  simrep.vcxproj -> D:\works\project\07.FileIO_windows\Windows-driver-samples\filesys\miniFilter\simrep\x64\Debug\simrep.sys
+  Done Adding Additional Store
+  Successfully signed: D:\works\project\07.FileIO_windows\Windows-driver-samples\filesys\miniFilter\simrep\x64\Debug\simrep.sys
+  
+  Driver is 'Universal'.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  D:\works\project\07.FileIO_windows\Windows-driver-samples\filesys\miniFilter\simrep\x64\Debug\simrep\simrep.cat
+  Done Adding Additional Store
+  Successfully signed: x64\Debug\simrep\simrep.cat
+  
